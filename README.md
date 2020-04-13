@@ -1,6 +1,6 @@
 # Airframe React
 
-![build workflow](https://github.com/Gammate/shards-dashboard-react/workflows/Github%20Page/badge.svg)
+![build workflow](https://github.com/Gammate/airframe/workflows/Github%20Page/badge.svg)
 
 High Quality **Dashboard / Admin / Analytics template*- that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
 
